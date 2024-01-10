@@ -1,0 +1,76 @@
+"64a281433d4edc73f2a6a94f": "[{"type": 0,
+"sid": "e296bd89 - 87a7 - 48fa - a54b - faba226fce8a",
+"sidext": "",
+"accountId": "",
+"fullname": "",
+"avatar": "",
+"name": "申请单1",
+"ext1": "",
+"ext2": "",
+"link": " / worksheet / 64a281173d4edc73f2a6a8bd / row / e296bd89 - 87a7 - 48fa - a54b - faba226fce8a",
+"projectId": "",
+"sourcevalue": "{ 
+    \"_id\":\"6568465c5f557d99d4ea99c4\",
+    \"wsid\":\"64a281173d4edc73f2a6a8bd\",
+    \"rowid\":\"e296bd89-87a7-48fa-a54b-faba226fce8a\",
+    \"status\":1,
+    \"ctime\":\"2023-11-30 16:22:52\",
+    \"caid\":\"[{
+        \\\"accountId\\\":\\\"7b8597e5-672e-4232-9446-985109c7bf4f\\\",
+        \\\"fullname\\\":\\\"付崇武\\\",
+        \\\"avatar\\\":\\\"https://p1.mingdaoyun.cn/UserAvatar/9e27df2e-15d8-4f24-8312-5436469a12bb.jpg?imageView2/1/w/48/h/48/q/90\\\",
+        \\\"status\\\":1
+}
+]\",
+    \"uaid\":\"[{
+        \\\"accountId\\\":\\\"64bbece3-5596-4ad5-baf4-2708f58fa102\\\",
+        \\\"fullname\\\":\\\"乐悠扬\\\",
+        \\\"avatar\\\":\\\"https://p1.mingdaoyun.cn/UserAvatar/7P7TbOdLbScf0naB4s5g8acz6k0Acddg2Y7bflbY4C7Abr1wa93186d16S0m7Jcz.jpg?imageView2/1/w/48/h/48/q/90\\\",
+        \\\"status\\\":1
+}
+]\",
+    \"ownerid\":\"[{
+        \\\"accountId\\\":\\\"7b8597e5-672e-4232-9446-985109c7bf4f\\\",
+        \\\"fullname\\\":\\\"付崇武\\\",
+        \\\"avatar\\\":\\\"https://p1.mingdaoyun.cn/UserAvatar/9e27df2e-15d8-4f24-8312-5436469a12bb.jpg?imageView2/1/w/48/h/48/q/90\\\",
+        \\\"status\\\":1
+}
+]\",
+    \"utime\":\"2024-01-10 15:55:51\",
+    \"64a281183d4edc73f2a6a8be\":\"申请单1\",
+    \"64a281433d4edc73f2a6a950\":\"[{
+        \\\"type\\\":0,
+        \\\"sid\\\":\\\"55ca0e71-55a0-48b9-89e2-892cf2d42ee6\\\",
+        \\\"sidext\\\":\\\"\\\",
+        \\\"accountId\\\":\\\"\\\",
+        \\\"fullname\\\":\\\"\\\",
+        \\\"avatar\\\":\\\"\\\",
+        \\\"name\\\":\\\"订单1123124\\\",
+        \\\"ext1\\\":\\\"\\\",
+        \\\"ext2\\\":\\\"\\\",
+        \\\"link\\\":\\\"/worksheet/64a28136c1750a6ef0e6e60d/row/55ca0e71-55a0-48b9-89e2-892cf2d42ee6\\\",
+        \\\"projectId\\\":\\\"\\\",
+        \\\"sourcevalue\\\":\\\"\\\"
+}
+]\",
+    \"discussunreads\":false,
+    \"autoid\":2,
+    \"656d93c07855e7320904d2c5\":\"10.00\",
+    \"64a281183d4edc73f2a6a8bf\":\"这是子表1的内容\",
+    \"allowedit\":false,
+    \"allowdelete\":false,
+    \"controlpermissions\":\"\",
+    \"65851273ad7b85835571ecd5\":\"[]\",
+    \"unreads\":false}"
+}
+]""caid": "[{"accountId": "64bbece3 - 5596 - 4ad5 - baf4 - 2708f58fa102",
+"fullname": "乐悠扬",
+"avatar": "https://p1.mingdaoyun.cn/UserAvatar/7P7TbOdLbScf0naB4s5g8acz6k0Acddg2Y7bflbY4C7Abr1wa93186d16S0m7Jcz.jpg?imageView2/1/w/48/h/48/q/90",
+"status": 1
+}
+]""ownerid": "[{"accountId": "64bbece3 - 5596 - 4ad5 - baf4 - 2708f58fa102",
+"fullname": "乐悠扬",
+"avatar": "https://p1.mingdaoyun.cn/UserAvatar/7P7TbOdLbScf0naB4s5g8acz6k0Acddg2Y7bflbY4C7Abr1wa93186d16S0m7Jcz.jpg?imageView2/1/w/48/h/48/q/90",
+"status": 1
+}
+]"
